@@ -3,5 +3,5 @@ prefix=$$$
 game=
 stayinchannel=true
 songinstatus=false
-token=NTQ4ODc5OTI3NDkyMjE0ODA5.D1LxAA.VTLKEj9f1tkiPKXGcRyC8F9uSOM
+token=NTQ4NTI1Nzk0NzYzMzQxODM2.D1XBxw.ryxuHme9kDdn2vAsJ2jXT_zTfBs
 
