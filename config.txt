@@ -4,5 +4,5 @@ game=$play
 stayinchannel=true
 songinstatus=false
 token=NTQ4NTI1Nzk0NzYzMzQxODM2.D1XBxw.ryxuHme9kDdn2vAsJ2jXT_zTfBs
-token=NTQ4OTEwNzA5NjUyODQ4NjYw.D1MzKA.F0tshaf1m1w2Ybn05IvECJdDnxc
+
 
