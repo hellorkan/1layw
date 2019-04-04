@@ -1,6 +1,6 @@
 owner=460606140666085378
 prefix=1
-game=Rabbit Music.
+game=Mushko Music.
 stayinchannel=true
 songinstatus=false
 token=NDg2NTg2NzU4OTUyMTI0NDQ2.D2wrvQ.4dOrMKMUYveeXJgyC2j7F_bBer4
