@@ -3,6 +3,6 @@ prefix=1
 game=Navi Music.
 stayinchannel=true
 songinstatus=false
-token=NTkwOTQzNTA3MjM4MzU0OTQ0.XQplCw.aJDRpHjw8Q78bNATGcqE1ojDcoE
+token=NTU2MDgxMTI1ODg2Mzk0MzY4.XQfmNQ.nDFAiydGScfvvnQy0aGiWV8jLTo
 
 
