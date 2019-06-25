@@ -1,6 +1,6 @@
 owner=460606140666085378
-prefix=Gi
-game=Navi Music.
+prefix=0
+game= .
 stayinchannel=true
 songinstatus=false
 token=NTkwOTQzNTA3MjM4MzU0OTQ0.XQplCw.aJDRpHjw8Q78bNATGcqE1ojDcoE
